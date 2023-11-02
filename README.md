@@ -24,13 +24,11 @@
     <li>
       <a href="#about-the-project">Part A - Importing Necessary Libraries and Modules</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#about-the-project">Part B - Defining Functions for Phi-Psi Calculation and Plotting</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+      
 
 
 
