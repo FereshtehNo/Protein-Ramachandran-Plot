@@ -16,7 +16,10 @@
 </div>
 
 
-![Alt text](logo.PNG)
+<div align="center">
+  <img src="logo.PNG" alt="Alt text">
+</div>
+
 
 
 <!-- TABLE OF CONTENTS -->
