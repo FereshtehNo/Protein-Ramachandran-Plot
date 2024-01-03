@@ -1,13 +1,11 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
-<h3 align="center">Protein-Ramachandran-Plot </h3>
+<h3 align="center">Protein-Ramachandran-Plot 🧬</h3>
 
   <p align="center">
     Department of Bioinformatics, IBB, University of Tehran
@@ -15,12 +13,9 @@
   </p>
 </div>
 
-
 <div align="center">
   <img src="logo.PNG" alt="Alt text">
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -33,9 +28,10 @@
     <li>
       <a href="#about-the-project">Part B - Defining Functions for Phi-Psi Calculation and Plotting</a>
       <ul>
-      
-
-
+      </ul>
+    </li>
+  </ol>
+</details>
 
 <!-- ABOUT THE PROJECT -->
 ## ROADMAP
@@ -43,23 +39,17 @@
 This Python script is designed for the analysis and visualization of protein structures through the generation of Ramachandran plots. It imports essential libraries like NumPy, Matplotlib, and Biopython for handling protein structure data. The code consists of two main functions: "calculate_phi_psi" parses a Protein Data Bank (PDB) file, extracts polypeptide chains, and calculates their phi and psi dihedral angles, while "plot_ramachandran" utilizes Matplotlib to create a detailed Ramachandran plot, categorizing data points into allowed, favored, and other regions. An example usage demonstrates how to apply these functions to a specific PDB file. This code simplifies the process of understanding protein structure conformations and aids in structural analysis by providing an intuitive visualization of the phi and psi angles 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Languages Used
+## Languages Used 💻
 
-python
+Python
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
 <!-- CONTACT -->
-## Contact
+## Contact 📧
 
 Fereshteh Noroozi - [@LinkedIn](https://ir.linkedin.com/in/fereshteh-noroozi-a90886118?original_referer=https%3A%2F%2Fwww.google.com%2F) 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
